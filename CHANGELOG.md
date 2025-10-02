@@ -12,6 +12,7 @@
 
 <details>
 
+-   [`bc45275`](https://github.com/stdlib-js/stdlib/commit/bc4527566e313868d308532a06d9257156361e32) - **refactor:** simplify declarations by using generic _(by Athan Reines)_
 -   [`50438e4`](https://github.com/stdlib-js/stdlib/commit/50438e4da3cedc7d964e8b80e4e7c602b9a04f90) - **style:** disable lint rule _(by Athan Reines)_
 
 </details>
